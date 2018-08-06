@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1533532720386
+Build-Jdk: 1.8.0_171
+Built-By: hemanth
+Bundle-Description: This module contains components that integrate with 
+ Apache Cassandra.
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: axon-cassandra
+Bundle-SymbolicName: org.axonframework.axon-cassandra
+Bundle-Version: 3.3.2
+Created-By: Apache Maven Bundle Plugin
+Implementation-Title: Axon Cassandra Components
+Implementation-Vendor-Id: org.axonframework
+Implementation-Version: 3.3.2
+Import-Package: org.axonframework.common;version="[3.3,4)",org.axonframe
+ work.common.jdbc;version="[3.3,4)",org.axonframework.eventhandling;vers
+ ion="[3.3,4)",org.axonframework.eventhandling.tokenstore;version="[3.3,
+ 4)",org.axonframework.eventsourcing;version="[3.3,4)",org.axonframework
+ .eventsourcing.eventstore;version="[3.3,4)",org.axonframework.messaging
+ ;version="[3.3,4)",org.axonframework.messaging.unitofwork;version="[3.3
+ ,4)",org.axonframework.serialization;version="[3.3,4)",org.axonframewor
+ k.serialization.upcasting.event;version="[3.3,4)",org.axonframework.ser
+ ialization.xml;version="[3.3,4)",com.datastax.driver.core;resolution:=o
+ ptional;version="[3.1,4)",com.datastax.driver.mapping;resolution:=optio
+ nal;version="[3.1,4)",com.datastax.driver.mapping.annotations;resolutio
+ n:=optional;version="[3.1,4)"
+Tool: Bnd-2.1.0.20130426-122213

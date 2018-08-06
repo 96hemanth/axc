@@ -1,0 +1,12 @@
+org/axonframework/cassandra/eventsourcing/eventstore/EventSchema$Builder.class
+org/axonframework/cassandra/eventsourcing/eventstore/SnapshotEventEntry.class
+org/axonframework/cassandra/eventsourcing/eventstore/TokenSchema$1.class
+org/axonframework/cassandra/eventsourcing/eventstore/DomainEventEntry.class
+org/axonframework/cassandra/eventsourcing/eventstore/TokenSchema.class
+org/axonframework/cassandra/eventsourcing/eventstore/CassandraTokenStore.class
+org/axonframework/cassandra/eventsourcing/eventstore/CassandraEventStorageEngine.class
+org/axonframework/cassandra/eventsourcing/eventstore/CassandraReadOnlyEventStorageEngine.class
+org/axonframework/cassandra/eventsourcing/eventstore/EventSchema.class
+org/axonframework/cassandra/eventsourcing/eventstore/EventLogEntry.class
+org/axonframework/cassandra/eventsourcing/eventstore/TokenSchema$Builder.class
+org/axonframework/cassandra/eventsourcing/eventstore/TokenEntry.class
